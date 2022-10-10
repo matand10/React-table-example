@@ -1,0 +1,17 @@
+// Setup
+@import '../style/setup/_typography.scss';
+@import '../style/setup/_variables.scss';
+@import '../style/setup/_mixins.scss';
+@import '../style/setup/_functions.scss';
+
+// Basics
+@import '../style/basics/helpers.scss';
+@import '../style/basics/base.scss';
+@import '../style/basics/layout.scss';
+
+
+// Pages
+@import '../style/pages/homepage.scss';
+
+// Cmps
+@import '../style/cmps/app-header.scss';
